@@ -94,7 +94,7 @@ header {
   height: 538px;
   flex-shrink: 0;
   border-radius: 300px 300px 0px 0px;
-  background: rgba(5, 151, 160, 0.15) url(/images/pngwing\ 5.png) no-repeat
+  background: rgba(5, 151, 160, 0.15) url(../images/pngwing\ 5.png) no-repeat
     center center;
 }
 .featured-flower .bg-three {
