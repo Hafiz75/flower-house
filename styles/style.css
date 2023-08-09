@@ -85,7 +85,7 @@ header {
   width: 464px;
   height: 538px;
   border-radius: 300px 300px 0px 0px;
-  background: rgba(167, 33, 98, 0.15) url(../images/pngwing6.png) no-repeat
+  background: rgba(167, 33, 98, 0.15) url(../images/pngwing\ 6.png) no-repeat
     center bottom;
 }
 .featured-flower .bg-two {
@@ -101,7 +101,7 @@ header {
   width: 464px;
   height: 538px;
   border-radius: 300px 300px 0px 0px;
-  background: rgba(71, 125, 17, 0.15) url(/images/pngwing\ 7.png) no-repeat
+  background: rgba(71, 125, 17, 0.15) url(../images/pngwing\ 7.png) no-repeat
     center bottom;
 }
 /*featured flower link style*/
@@ -179,7 +179,7 @@ header {
   text-align: center;
   font-size: 18px;
   font-weight: 400;
-  line-height: 30px; /* 166.667% */
+  line-height: 30px;
 }
 .hot-deal-details button {
   display: block;
@@ -272,7 +272,7 @@ header {
 
 /*......section 7 .....7...... latest deal section ....related style.........*/
 .latest-deal {
-  background: url(/images/Rectangle\ 9.png) no-repeat;
+  background: url(../images/Rectangle\ 9.png) no-repeat;
   margin: 0 240px 128px;
   padding: 122px 287px 121px;
   width: 1440px;
