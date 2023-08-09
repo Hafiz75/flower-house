@@ -85,7 +85,7 @@ header {
   width: 464px;
   height: 538px;
   border-radius: 300px 300px 0px 0px;
-  background: rgba(167, 33, 98, 0.15) url(/images/pngwing6.png) no-repeat
+  background: rgba(167, 33, 98, 0.15) url(../images/pngwing6.png) no-repeat
     center bottom;
 }
 .featured-flower .bg-two {
