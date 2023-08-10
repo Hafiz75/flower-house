@@ -4,7 +4,7 @@ body {
   font-family: Lato, sans-serif;
 }
 
-*{
+* {
   box-sizing: border-box;
 }
 
@@ -48,12 +48,12 @@ header {
   color: rgba(39, 39, 39, 0.6);
   font-size: 18px;
   font-weight: 400;
-  line-height: 30px; 
+  line-height: 30px;
 }
 
 /*main tag style*/
 .container {
-  width: 1920px;/*set main tag width*/
+  width: 1920px; /*set main tag width*/
   background: #fff;
 }
 
